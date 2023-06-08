@@ -13,7 +13,7 @@ I'm software development student apassionated for the AI & Big Data solutions. A
 - 💬 Ask me about Tourism & digital transformation
 - 📫 How to reach me: [sergioandresusma@hotmail.com](mailto:sergioandresusma@hotmail.com)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like to play online games.
+- ⚡ Interesting fact: I'm a colombian navy veteran.
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/sergiousma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
