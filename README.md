@@ -18,7 +18,7 @@ I'm software development student apassionated for the AI & Big Data solutions. A
 <div align="center">
 <a href="https://www.buymeacoffee.com/sergiousma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
-## My tech stack
+## My tech stack goal
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
