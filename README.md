@@ -16,7 +16,7 @@ I'm software development student apassionated for the AI & Big Data solutions. A
 - ⚡ Fun fact: I like to play online games.
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+<a href="https://www.buymeacoffee.com/sergiousma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 ## My tech stack
 
