@@ -9,7 +9,7 @@ I'm software development student apassionated for the AI & Big Data solutions. A
 - 🔭 I’m currently in Microverse Software Development School.
 - 🌱 I’m currently learning Advanced JavaScript.
 - 👯 I’m looking to collaborate on AI & Big Data solutions for the tourism/hospitality sector.
-- 🤔 I’m looking for a good project
+- 🤔 I’m open to new job opportunities.
 - 💬 Ask me about Tourism & digital transformation
 - 📫 How to reach me: [sergioandresusma@hotmail.com](mailto:sergioandresusma@hotmail.com)
 - 😄 Pronouns: He/him
