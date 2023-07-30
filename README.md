@@ -3,7 +3,7 @@
 ![](banner.jpeg)
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="450" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="380" alt="adam-pw" /></p>
 
 I'm software development student apassionated for the AI & Big Data solutions. Ask me what you want about the digital transformation in the tourism sector!
 - 🔭 I’m currently in Microverse Software Development School.
