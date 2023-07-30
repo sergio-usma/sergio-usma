@@ -1,6 +1,6 @@
 # Hello there I am Sergio Usma👋
 
-![](banner.jpeg)
+![](banner_su.jpeg)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="380" alt="adam-pw" /></p>
